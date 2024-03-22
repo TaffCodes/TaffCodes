@@ -6,8 +6,8 @@ Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in Chuka, Kenya.
-* ✉️  You can contact me at [basweti.dev@gmail.com](mailto:basweti.dev@gmail.com)
-* 🚀  I'm currently working on [Upwork](https://www.upwork.com/freelancers/~01321de1bf37b933be)
+* ✉️  You can contact me at [basweti.dev@gmail.com](mailto:basweti.dev@gmail.com).
+* 🚀  I'm currently working on [Upwork](https://www.upwork.com/freelancers/~01321de1bf37b933be).
 * 🧠  Currently familiarising JS Frameworks.
 * 🤝  I'm open to contributing to open-source and technical writing gigs.
 
