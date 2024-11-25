@@ -30,9 +30,3 @@ Software Engineer
 
 [![wakatime](https://wakatime.com/badge/user/fe3b210c-5349-4002-ae94-47b311b5a779.svg)](https://wakatime.com/@fe3b210c-5349-4002-ae94-47b311b5a779)
 
-
-### Socials
-![Twitter Follow](https://img.shields.io/twitter/follow/TaffCodes?style=social)
-
-<p align="left"> <a href="https://www.linkedin.com/in/raybasweti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>   <a href="https://www.x.com/TaffCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
